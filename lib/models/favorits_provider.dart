@@ -6,9 +6,7 @@ class FavoritesProvider with ChangeNotifier {
     'Banana',
     'Erdbeere',
     'Birne',
-    'Mango',
-    'Cherry',
-    'Coconut'
+    'Durian'
   ];
 
   final List<String> _favoriteFruits = [];
